@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sirocknick
+- 👀 I’m interested in Web Applications
+- 🌱 I’m currently learning more about React, Typescript, and Node.js
+- 💞️ I’m looking to collaborate on learning, projects
+- 📫 Reach me at sirocknick@gmai.com
